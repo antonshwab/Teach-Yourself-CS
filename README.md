@@ -13,6 +13,8 @@
 - Opinion: [Cutting through to what matters](https://bradfieldcs.com/knives/)
 - Opinion: [The cost of forsaking C](https://blog.bradfieldcs.com/the-cost-of-forsaking-c-113986438784)
 
+---
+
 Вдохновление:
 
 - [Bret Victor](http://worrydream.com/)
@@ -30,6 +32,9 @@
 
 Замечания и детали по разделу смотреть по ссылке в названии раздела.
 
+Обсуждение: [http://slack-ru.hexlet.io/](http://slack-ru.hexlet.io/)
+
+---
 __Roadmap__:
 
 1. [Programming](https://teachyourselfcs.com/#programming)
@@ -100,7 +105,9 @@ __Roadmap__:
         
     * [The Algorithm Design Manual by Steven S Skiena](https://teachyourselfcs.com/#algorithms)
     * [#coursera Master Algorithmic Programming Techniques](https://www.coursera.org/specializations/data-structures-algorithms)
-    
+
+---
+
 4. [Mathematics for Computer Science](https://teachyourselfcs.com/#math)
 
     * [Брошюра: Логарифм и экспонента](http://www.mccme.ru/free-books/shen/shen-log.pdf)
@@ -114,9 +121,9 @@ __Roadmap__:
     
     * [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
     * [The HoTT Book](https://homotopytypetheory.org/book/)
-    
-    
-    
+     
+---
+
 5. [Operating Systems](https://teachyourselfcs.com/#operating-systems)
 
     * __Цель-минимум__:
@@ -131,12 +138,16 @@ __Roadmap__:
     * [The Design and Implementation of the FreeBSD Operating System (2nd Edition)](https://www.amazon.com/Design-Implementation-FreeBSD-Operating-System/dp/0321968972/)
     
     * [Lions' Commentary on Unix](https://www.amazon.com/Lions-Commentary-Unix-John/dp/1573980137/)
-    
+
+---
+
 6. [Computer Networking](https://teachyourselfcs.com/#networking)
 
     * [Computer Networking: A Top-Down Approach](https://teachyourselfcs.com/#networking) 
     * [The small projects and exercises in the book](http://www-net.cs.umass.edu/wireshark-labs/)
     
+---
+
 7. [Databases](https://teachyourselfcs.com/#databases)
 
     * [Joe Hellerstein’s databases course at Berkeley](https://www.youtube.com/watch?v=dY48_UZhvhw&list=PL-XXv-cvA_iBVK2QzAV-R7NMA1ZkaiR2y)
@@ -144,7 +155,9 @@ __Roadmap__:
     * [the databases “Red Book”](http://www.redbook.io/)
     * [Jim Gray’s classic Transaction Processing: Concepts and Techniques ](https://www.amazon.com/Transaction-Processing-Concepts-Techniques-Management/dp/1558601902)
     * [Data and Reality: A Timeless Perspective on Perceiving and Managing Information in Our Imprecise World](https://www.amazon.com/Data-Reality-Perspective-Perceiving-Information/dp/1935504215)
-    
+
+---
+
 8. [Languages and Compilers](https://teachyourselfcs.com/#languages)
 
     - Opinion: [Learn every language](https://blog.bradfieldcs.com/in-2017-learn-every-language-59b11f68eee)
@@ -159,13 +172,13 @@ __Roadmap__:
     * [Practical Foundations for Programming Languages](https://www.amazon.com/Practical-Foundations-Programming-Languages-Robert/dp/1107150302/ref=pd_sim_14_13?_encoding=UTF8&pd_rd_i=1107150302&pd_rd_r=YEG9BPQGS65XC8WMPXYA&pd_rd_w=SOtXs&pd_rd_wg=JrKY4&psc=1&refRID=YEG9BPQGS65XC8WMPXYA)
     * [Software Foundations by Benjamin C. Pierce](http://www.cis.upenn.edu/~bcpierce/sf/current/index.html)
     
-        
+---
+
 9. [Distributed Systems](https://teachyourselfcs.com/#distributed-systems)
 
     * [Distributed Systems: Principles and Paradigms by Andrew S. Tanenbaum](https://www.amazon.com/Distributed-Systems-Principles-Andrew-Tanenbaum/dp/153028175X)
     * [Distributed Systems Reading Group](http://dsrg.pdos.csail.mit.edu/papers/)
-    
-    
+     
 ---
 
 [__Журнал «Практика функционального программирования»__](http://fprog.ru/)
