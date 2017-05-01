@@ -55,7 +55,7 @@ __Roadmap__:
    * Офигенная книга __Concepts, Techniques, and Models of Computer Programming__:
       - [ ] [Concepts, Techniques, and Models of Computer Programming by Peter van Roy](http://www.epsa.org/forms/uploadFiles/3B6300000000.filename.booksingle.pdf)
  
-      - [X] [#edx Louv1.1x Paradigms of Computer Programming - Fundamentals](https://courses.edx.org/courses/course-v1:LouvainX+Louv1.2x+3T2016/info)
+      - [X] [#edx Louv1.1x Paradigms of Computer Programming - Fundamentals](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-1x-1)
 
       - [ ] [#edx Louv1.2x Paradigms of Computer Programming - Abstraction and Concurrency](https://courses.edx.org/courses/course-v1:LouvainX+Louv1.2x+3T2016/info)
       
