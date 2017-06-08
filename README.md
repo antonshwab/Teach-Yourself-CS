@@ -17,8 +17,7 @@ __Roadmap__:
 
 1. [Programming](https://teachyourselfcs.com/#programming)
      
-   __Concepts, Techniques, and Models of Computer Programming__:
-      - [ ] [Concepts, Techniques, and Models of Computer Programming by Peter van Roy](http://www.epsa.org/forms/uploadFiles/3B6300000000.filename.booksingle.pdf)
+    - [ ] [Concepts, Techniques, and Models of Computer Programming by Peter van Roy](http://www.epsa.org/forms/uploadFiles/3B6300000000.filename.booksingle.pdf)
  
       - [X] [#edx Louv1.1x Paradigms of Computer Programming - Fundamentals](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-1x-1)
 
