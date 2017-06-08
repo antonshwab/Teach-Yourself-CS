@@ -2,9 +2,7 @@
 
 [Bradfield School of Computer Science](https://bradfieldcs.com/)
 
-"Что к чему" гайд: [Teach Yourself Computer Science](https://teachyourselfcs.com/)
-
-Другие уточняющие статьи и материалы:
+[Teach Yourself Computer Science](https://teachyourselfcs.com/)
 
 - Guide: [Learn how computers work](https://blog.bradfieldcs.com/learn-how-computers-work-e7d33dba0238)
 - Guide: [How to learn C](https://blog.bradfieldcs.com/how-to-learn-c-59222a627a4c)
@@ -12,47 +10,14 @@
 - Opinion: [Learn every language](https://blog.bradfieldcs.com/in-2017-learn-every-language-59b11f68eee)
 - Opinion: [Cutting through to what matters](https://bradfieldcs.com/knives/)
 - Opinion: [The cost of forsaking C](https://blog.bradfieldcs.com/the-cost-of-forsaking-c-113986438784)
-
 ---
-
-Вдохновление:
-
-- [Bret Victor](http://worrydream.com/)
-- [Книжная полка](http://worrydream.com/Shelf2015/)
-- [Lev Walkin](http://lionet.livejournal.com/)
-- [Вдохновляющий наброс](http://maxim.livejournal.com/515813.html)
-- [Future Prediction](http://semantic.vision/)
-
----
-
-По объективным причинам рекомендуется следующая зависимость: 
-> сomputer architecture before operating systems or databases, and networking and operating systems before distributed systems. 
-
-Остальное на усмотрение.
-
-Замечания и детали по разделу смотреть по ссылке в названии раздела.
-
-Обсуждение: [http://slack-ru.hexlet.io/](http://slack-ru.hexlet.io/)
-
+[http://slack-ru.hexlet.io/](http://slack-ru.hexlet.io/)
 ---
 __Roadmap__:
 
 1. [Programming](https://teachyourselfcs.com/#programming)
-   * __Цель-минимум__:
-       
-      - [ ] Прочитать и сделать большинство упражнений из первый трех частей СИКПа.
-      - [ ] Concepts, Techniques, and Models of Computer Programming
-   
-   - [ ] __SICP__:
-      * [Beautiful e-book SICP](http://sarabander.github.io/sicp/?utm_content=buffer6dac4&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-      * [СИКП на русском](http://newstar.rinet.ru/~goga/sicp/sicp.pdf)
-      * [SICP in Clojure](http://www.sicpdistilled.com/)
-      * [Solutions and Notes](http://eli.thegreenplace.net/tag/sicp)
-      * [Video Lectures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video-lectures/)
-      * [Projects](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/projects/)
-      * [Programming assignments](https://mitpress.mit.edu/sicp/psets/index.html)
-      
-   * Офигенная книга __Concepts, Techniques, and Models of Computer Programming__:
+     
+   __Concepts, Techniques, and Models of Computer Programming__:
       - [ ] [Concepts, Techniques, and Models of Computer Programming by Peter van Roy](http://www.epsa.org/forms/uploadFiles/3B6300000000.filename.booksingle.pdf)
  
       - [X] [#edx Louv1.1x Paradigms of Computer Programming - Fundamentals](https://www.edx.org/course/paradigms-computer-programming-louvainx-louv1-1x-1)
@@ -66,17 +31,10 @@ __Roadmap__:
 ---
       
 2. [Computer Architecture](https://teachyourselfcs.com/#architecture)
-
-    * __Цель-минимум__:
-      
-        - [ ] Пройти CS61C
-        - [ ] [MIPS assembly track to exercism.io](http://exercism.io/languages/mips/about)
-    
-    * __Вводная__:
-      
-      - Guide: [Learn how computers work](https://blog.bradfieldcs.com/learn-how-computers-work-e7d33dba0238)
-      - Opinion: [The cost of forsaking C](https://blog.bradfieldcs.com/the-cost-of-forsaking-c-113986438784)
-      - Guide: [How to learn C](https://blog.bradfieldcs.com/how-to-learn-c-59222a627a4c)
+   
+    - Guide: [Learn how computers work](https://blog.bradfieldcs.com/learn-how-computers-work-e7d33dba0238)
+    - Opinion: [The cost of forsaking C](https://blog.bradfieldcs.com/the-cost-of-forsaking-c-113986438784)
+    - Guide: [How to learn C](https://blog.bradfieldcs.com/how-to-learn-c-59222a627a4c)
     
     - [ ] Patterson and Hennesy’s Computer Organization and Design + CS61C Spring 2015:
         
@@ -96,12 +54,6 @@ __Roadmap__:
 ---
 
 3. [Algorithms and Data Structures](https://teachyourselfcs.com/#algorithms)
-    
-    * __Цель-минимум__:
-      
-        - [ ] solving around 100 random leetcode problems
-        - [ ] [How to Solve It: A New Aspect of Mathematical Method](https://www.amazon.com/gp/product/069116407X?pldnSite=1)
-        - [ ] [Practical Algorithms and Data Structures](https://bradfieldcs.com/algos/)
         
     - [ ] [The Algorithm Design Manual by Steven S Skiena](https://teachyourselfcs.com/#algorithms)
     - [ ] [#coursera Master Algorithmic Programming Techniques](https://www.coursera.org/specializations/data-structures-algorithms)
@@ -121,14 +73,11 @@ __Roadmap__:
     
     - [ ] [Category Theory for Programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
     - [ ] [The HoTT Book](https://homotopytypetheory.org/book/)
+    ...
      
 ---
 
 5. [Operating Systems](https://teachyourselfcs.com/#operating-systems)
-
-    * __Цель-минимум__:
-        
-        - [ ] [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
     - [ ] [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
     
@@ -164,7 +113,7 @@ __Roadmap__:
     - [ ] [the Dragon Book](https://www.amazon.com/gp/product/0321486811?pldnSite=1)
     - [ ] [Alex Aiken’s course](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
     - [ ] [A handbook for making programming languages](http://www.craftinginterpreters.com/)
-    - [ ] полегче: [Language Implementation Patterns](https://www.amazon.com/gp/product/193435645X?pldnSite=1)
+    - [ ] [Language Implementation Patterns](https://www.amazon.com/gp/product/193435645X?pldnSite=1)
     - [ ] [Make a Lisp](https://github.com/kanaka/mal)
         - [ ] [Build Your Own Lisp](http://www.buildyourownlisp.com/)
         - [ ] [Write You A Scheme, Version 2](https://wespiser.com/writings/wyas/home.html?utm_content=buffer5ca75&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
@@ -177,14 +126,13 @@ __Roadmap__:
 9. [Distributed Systems](https://teachyourselfcs.com/#distributed-systems)
 
     - [ ] [Distributed Systems: Principles and Paradigms by Andrew S. Tanenbaum](https://www.amazon.com/Distributed-Systems-Principles-Andrew-Tanenbaum/dp/153028175X)
-    - [ ] [Distributed Systems Reading Group](http://dsrg.pdos.csail.mit.edu/papers/)
-     
+    - [ ] [Distributed Systems Reading Group](http://dsrg.pdos.csail.mit.edu/papers/) 
 ---
 
 [__Журнал «Практика функционального программирования»__](http://fprog.ru/)
 
   * 2009 → Выпуск 1:
-    - [X] [От редактора](http://fprog.ru/2009/issue1/lev-walkin-editorial/)
+    - [ ] [От редактора](http://fprog.ru/2009/issue1/lev-walkin-editorial/)
     - [ ] [Лень бояться. Сергей Зефиров](http://fprog.ru/2009/issue1/serguey-zefirov-lazy-to-fear/)
     - [ ] [Функции и функциональный подход. Роман Душкин](http://fprog.ru/2009/issue1/roman-dushkin-functional-approach/)
     - [ ] [Изменяемое состояние: опасности и борьба с ними. Евгений Кирпичёв](http://fprog.ru/2009/issue1/eugene-kirpichov-fighting-mutable-state/)
