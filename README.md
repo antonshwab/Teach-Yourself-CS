@@ -131,8 +131,8 @@ __Roadmap__:
 [__Журнал «Практика функционального программирования»__](http://fprog.ru/)
 
   * 2009 → Выпуск 1:
-    - [ ] [От редактора](http://fprog.ru/2009/issue1/lev-walkin-editorial/)
-    - [ ] [Лень бояться. Сергей Зефиров](http://fprog.ru/2009/issue1/serguey-zefirov-lazy-to-fear/)
+    - [X] [От редактора](http://fprog.ru/2009/issue1/lev-walkin-editorial/)
+    - [X] [Лень бояться. Сергей Зефиров](http://fprog.ru/2009/issue1/serguey-zefirov-lazy-to-fear/)
     - [ ] [Функции и функциональный подход. Роман Душкин](http://fprog.ru/2009/issue1/roman-dushkin-functional-approach/)
     - [ ] [Изменяемое состояние: опасности и борьба с ними. Евгений Кирпичёв](http://fprog.ru/2009/issue1/eugene-kirpichov-fighting-mutable-state/)
     - [ ] [Давно не брал я в руки шашек. Дмитрий Астапов](http://fprog.ru/2009/issue1/dmitry-astapov-checkers/)
